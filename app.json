@@ -7,19 +7,19 @@
     "env": {
         "API_ID": {
           "description": "Get this value from https://my.telegram.org",
-          "value": ""
+          "value": "5168062"
         },
         "API_HASH": {
           "description": "Get this value from https://my.telegram.org",
-          "value": ""
+          "value": "04c049aa96d1cc87920b45b7fb43c0d0"
         },
          "TOKEN": {
           "description": "Your bot token, as a string. Get it from @BotFather on telegram",
-          "value": ""
+          "value": "5063045013:AAFPUeNe03B4uZAGj9i9ZplakIdSCq1XLCM"
         },
         "ADMIN_ID" : {
             "description": "Get your own ID anyhow you can, easy way is to use /id with a well recognised bot on telegram.",
-            "value": ""
+            "value": "1956035465"
         }},
         "buildpacks": [{"url": "heroku/python"}],
         "formation": {
