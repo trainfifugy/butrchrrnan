@@ -6,6 +6,6 @@ COPY . .
 
 RUN pip install -U -r requirements.txt
 
-CMD [ "python", "-m", "MeshRenameBot" ]
+CMD [ "python", "-m", "butrchrrnan" ]
 © 2022 GitHub, Inc.
 Terms
